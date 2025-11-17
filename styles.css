@@ -1,0 +1,17 @@
+body {
+    background-image: url(TexturaDePantalla.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-size:600%;
+    font-family: "Coral Pixels", serif;
+    text-align: center;
+    color:aliceblue;
+}
+
+.coral-pixels-regular {
+  font-family: "Coral Pixels", serif;
+  font-weight: 400;
+  font-style: normal;
+}
